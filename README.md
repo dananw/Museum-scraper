@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+this project will scraper museums from http://www.museumsusa.org/
 
-Things you may want to cover:
+clone this project and run
 
-* Ruby version
+``rails db:seed``
 
-* System dependencies
+voila, now you have the data in your database.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
